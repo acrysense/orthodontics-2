@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SonyEricssonLogo';
+    src: url('SonyEricssonLogo.eot');
+    src: url('SonyEricssonLogo.eot?#iefix') format('embedded-opentype'),
+        url('SonyEricssonLogo.woff2') format('woff2'),
+        url('SonyEricssonLogo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
